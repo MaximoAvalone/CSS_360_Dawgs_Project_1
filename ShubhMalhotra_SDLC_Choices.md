@@ -37,3 +37,9 @@ The project involves significant technical risk due to real-time data processing
 ## #6: Educational Game  
 **Recommended SDLC Model:** Agile (Scrum)  
 Requirements are preliminary and constantly evolving, and early delivery is needed for customer testing and feedback. Scrum allows for rapid iteration and close collaboration with educators (a separate group) to refine gameplay and educational effectiveness.
+
+---
+
+## #7: Global Health  
+**Recommended SDLC Model:** Lean  
+With a small team and uncertain requirements, Lean development focuses on delivering the most value for the least waste. Rapid experimentation, validation, and learning help demonstrate real-world health impact and also helps support future funding opportunities.
