@@ -55,3 +55,24 @@
 **Justification**: With only 5 people and needing to show results for more funding, they should build the most important features first. Delivering working software in pieces lets them prove impact quickly and learn what actually helps people in developing countries before building more.
 
 ---
+## Summary Table
+
+| Project | Selected SDLC | Main Reason |
+|---------|---------------|-------------|
+| New e-Commerce site | Incremental | Customer feedback needed, mixed team |
+| Dental office site | Agile | Flexible timeline, evolving requirements |
+| Nuclear Power Plant | Waterfall | Safety-critical, extensive documentation |
+| Department of Transportation | Waterfall | Fixed requirements, experienced team |
+| Reducing Traffic | Integration & Configuration | Reuse existing technology |
+| Educational game | Agile | Rapid changes, customer testing |
+| Global Health | Incremental | Limited resources, prove value quickly |
+
+---
+
+## SDLC Models Overview
+
+**Models I Considered:**
+- **Waterfall**: Step by step process, good when requirements are clear upfront
+- **Incremental**: Build in pieces, deliver working parts gradually  
+- **Agile**: Flexible and adapts to changes quickly with customer involvement
+- **Integration & Configuration**: Reuse existing software and systems
