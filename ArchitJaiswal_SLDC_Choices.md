@@ -23,3 +23,35 @@
 **Justification**: Safety is extremely critical here - mistakes could be dangerous. Everything needs to be planned, documented and tested thoroughly before building anything. The waterfall method ensures all safety checks happen upfront and creates the detailed documentation needed for a system that must last 10+ years.
 
 ---
+
+## 4: Department of Transportation
+
+> **Selected SDLC**: Waterfall Model
+
+**Justification**: They already have a complete 100-page specification telling exactly what to build. The team knows this type of work and has 18 months planned out. Since requirements are clear and won't change, waterfall's step-by-step approach from requirements to delivery works perfectly here.
+
+---
+
+## 5: Reducing Traffic
+
+> **Selected SDLC**: Integration and Configuration
+
+**Justification**: This project combines lots of existing technology - GPS devices, cameras and sensors. Instead of building everything from scratch, reusing and connecting existing components saves time and money. The team already has experience with similar systems they can adapt.
+
+---
+
+## 6: Educational game
+
+> **Selected SDLC**: Agile Development
+
+**Justification**: Game requirements will change as teachers test them and give feedback. The small experienced team can build game versions quickly, let teachers try them and improve based on what works. Fast iterations and constant testing fit perfectly with how games need to be developed.
+
+---
+
+## 7: Global Health
+
+> **Selected SDLC**: Incremental Development
+
+**Justification**: With only 5 people and needing to show results for more funding, they should build the most important features first. Delivering working software in pieces lets them prove impact quickly and learn what actually helps people in developing countries before building more.
+
+---
