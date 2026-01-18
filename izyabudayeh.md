@@ -1,7 +1,5 @@
 # SDLC Model Selection Report
 
-**Course Project:** Software Development Lifecycle Models  
-**Role:** Individual Project Manager Perspective  
 
 > This section represents my individual SDLC model selections for each project.  
 > These choices were made independently prior to group discussion.
