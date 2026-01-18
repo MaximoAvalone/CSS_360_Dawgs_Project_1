@@ -3,9 +3,9 @@
 
 
 ## Project #1: New e-Commerce Site  
-**Chosen SDLC Model:** **Incremental / Agile**
+**Chosen SDLC Model:** **Incremental**
 
-An incremental or agile model is best because the system is user-facing and highly interactive, with features like customization and outfit matching that benefit from early user feedback. Additionally, the company already has existing templates and infrastructure, making it practical to deliver the site in increments while coordinating new scripting extensions with a separate development team.
+An incremental model is best because the system is user-facing and highly interactive, with features like customization and outfit matching that benefit from early user feedback. Additionally, the company already has existing templates and infrastructure, making it practical to deliver the site in increments while coordinating new scripting extensions with a separate development team.
 
 
 
@@ -24,14 +24,14 @@ A plan-driven waterfall model is best because of the safety-critical nature of t
 
 
 ## Project #4: Department of Transportation  
-**Chosen SDLC Model:** **Waterfall (Plan-Driven)**
+**Chosen SDLC Model:** **Waterfall**
 
 A waterfall model is best because it is based on a detailed and stable 100-page specification, and the organization has prior experience with similar systems. The fixed timeline, defined scope, and experienced team favor a structured, plan-driven approach with clearly defined phases.
 
 
 
 ## Project #5: Reducing Traffic  
-**Chosen SDLC Model:** **Incremental with Prototyping**
+**Chosen SDLC Model:** **Incremental**
 
 An incremental model with early prototyping is best because the system involves complex integration of hardware, networking, and real-time data processing. Prototypes can help validate assumptions about sensors, GPS tracking, and displays while allowing the system to evolve as technical challenges are better understood.
 
@@ -45,7 +45,7 @@ Agile development is best because requirements are evolving and the goal is rapi
 
 
 ## Project #7: Global Health  
-**Chosen SDLC Model:** **Agile / Incremental**
+**Chosen SDLC Model:** **Incremental**
 
-An agile or incremental approach is best because of the small initial team, evolving requirements, and uncertainty around long-term goals tied to grant funding. Early releases can demonstrate impact quickly, which is critical for securing additional funding, while allowing the system to adapt to real-world conditions in developing regions.
+An incremental approach is best because of the small initial team, evolving requirements, and uncertainty around long-term goals tied to grant funding. Early releases can demonstrate impact quickly, which is critical for securing additional funding, while allowing the system to adapt to real-world conditions in developing regions.
 
