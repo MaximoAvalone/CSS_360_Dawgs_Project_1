@@ -20,7 +20,7 @@
 
 > **Selected SDLC**: Waterfall Model
 
-**Justification**: Safety is extremely critical here - mistakes could be dangerous. Everything needs to be planned, documented and tested thoroughly before building anything. The waterfall method ensures all safety checks happen upfront and creates the detailed documentation needed for a system that must last 10+ years.
+**Justification**: Safety is extremely critical here as mistakes could be dangerous. Everything needs to be planned, documented and tested thoroughly before building anything. The waterfall method makes sure all safety checks happen upfront and creates the detailed documentation needed for a system that must last 10+ years.
 
 ---
 
@@ -28,7 +28,7 @@
 
 > **Selected SDLC**: Waterfall Model
 
-**Justification**: They already have a complete 100-page specification telling exactly what to build. The team knows this type of work and has 18 months planned out. Since requirements are clear and won't change, waterfall's step-by-step approach from requirements to delivery works perfectly here.
+**Justification**: They already have a complete 100-page specification telling exactly what to build. The team knows this type of work and has 18 months planned out. Since requirements are clear and won't change, waterfall's step by step approach from requirements to delivery works perfectly here.
 
 ---
 
