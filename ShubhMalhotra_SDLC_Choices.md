@@ -41,5 +41,5 @@ Requirements are preliminary and constantly evolving, and early delivery is need
 ---
 
 ## #7: Global Health  
-**Recommended SDLC Model:** Lean  
-With a small team and uncertain requirements, Lean development focuses on delivering the most value for the least waste. Rapid experimentation, validation, and learning help demonstrate real-world health impact and also helps support future funding opportunities.
+**Recommended SDLC Model:** Agile  
+With a small team and uncertain requirements, Agile development works best. It allows experimentation, validation, and learning to help demonstrate real-world health impact and also helps support future funding opportunities.
