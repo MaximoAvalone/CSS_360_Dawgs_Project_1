@@ -25,3 +25,15 @@ This software is safety-critical and must be thoroughly tested and validated at 
 ## #4: Department of Transportation  
 **Recommended SDLC Model:** Waterfall  
 This project is based on a detailed and stable specification with a fixed schedule and experienced staff. The Waterfall model provides a structured, sequential process that aligns well with constant expectations and predictable outcomes.
+
+---
+
+## #5: Reducing Traffic  
+**Recommended SDLC Model:** Spiral  
+The project involves significant technical risk due to real-time data processing, distributed systems, and hardware integration. The Spiral model emphasizes risk assessment and prototyping, which helps manage uncertainty while using the team’s expertise.
+
+---
+
+## #6: Educational Game  
+**Recommended SDLC Model:** Agile (Scrum)  
+Requirements are preliminary and constantly evolving, and early delivery is needed for customer testing and feedback. Scrum allows for rapid iteration and close collaboration with educators (a separate group) to refine gameplay and educational effectiveness.
