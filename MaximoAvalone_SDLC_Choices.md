@@ -5,7 +5,7 @@ I would recommend the Agile development process. Agile development is well suite
 I would recommend the Incremental development process. Incremental development works well when a system can be built in stages, starting with basic functionality and expanding over time. This fits the needs of the dentist perfectly, start by implementing the ability to make appointments and over time develop and implement the remaining features incrementally.
 
 ## #3: Nuclear Power Plant
-I would recommend the Spiral development process. Spiral is good for high risk situations because it focuses on risk analysis which is very important for a Nuclear Power Plant.
+I would recommend the Spiral development process. Spiral is good for high risk situations because it focuses on risk analysis which is very important for a Nuclear Power Plant as there is signifigant risk involved with software failure.
 
 ## #4: Department of Transportation
 I would recommend the Waterfall development process. Waterfall is effective when requirements are clearly defined and stable from the beginning. This project aligns perfectly with this because of the fact that the Department of Transportation has strict guidelines that won’t change.
