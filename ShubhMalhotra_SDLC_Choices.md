@@ -19,3 +19,9 @@ The website begins with simple, well-understood requirements but is expected to 
 ## #3: Nuclear Power Plant  
 **Recommended SDLC Model:** V-Model  
 This software is safety-critical and must be thoroughly tested and validated at every stage of development. The V-Model ensures the following of requirements and verification activities, which is necessary for long-term reliability and safe behavior in case anything happens.
+
+---
+
+## #4: Department of Transportation  
+**Recommended SDLC Model:** Waterfall  
+This project is based on a detailed and stable specification with a fixed schedule and experienced staff. The Waterfall model provides a structured, sequential process that aligns well with constant expectations and predictable outcomes.
