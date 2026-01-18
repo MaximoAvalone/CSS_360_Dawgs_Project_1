@@ -1,5 +1,5 @@
 ## #1: New e-Commerce site
-I would recommend the Agile development process. Agile development is well suited for projects where requirements are expected to change because customer needs change and play an important role in shaping the final product. An e-Commerce site is the perfect environment for Agile because updates can realistically be pushed on a regular basis.
+I would recommend the Agile development process. Agile development is well suited for projects where requirements are expected to change because customer needs change and play an important role in shaping the final product. An e-Commerce site is the perfect environment for Agile because updates can realistically be pushed on a regular basis and its not extremely high risk.
 
 ## #2: Dental office site
 I would recommend the Incremental development process. Incremental development works well when a system can be built in stages, starting with basic functionality and expanding over time. This fits the needs of the dentist perfectly, start by implementing the ability to make appointments and over time develop and implement the remaining features incrementally.
