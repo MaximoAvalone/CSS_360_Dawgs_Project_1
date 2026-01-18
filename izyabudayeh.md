@@ -1,15 +1,7 @@
 # SDLC Model Selection Report
 
 
-> This section represents my individual SDLC model selections for each project.  
-> These choices were made independently prior to group discussion.
-
----
-
 ## Individual Section – SDLC Choices and Justifications
-
-Below are my recommended SDLC models for each project along with brief justifications.
-
 ---
 
 ## #1: New e-Commerce site  
