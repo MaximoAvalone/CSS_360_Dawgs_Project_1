@@ -20,7 +20,7 @@
 
 > **Selected SDLC**: Waterfall Model
 
-**Justification**: Safety is extremely critical here - mistakes could be dangerous. Everything needs to be planned, documented and tested thoroughly before building anything. The waterfall method ensures all safety checks happen upfront and creates the detailed documentation needed for a system that must last 10+ years.
+**Justification**: Safety is extremely critical here and mistakes could be dangerous. Everything needs to be planned, documented and tested thoroughly before building anything. The waterfall method is perfect for this as it ensures all safety checks happen upfront and creates the detailed documentation needed for a system that must last 10+ years.
 
 ---
 
@@ -36,7 +36,7 @@
 
 > **Selected SDLC**: Integration and Configuration
 
-**Justification**: This project combines lots of existing technology - GPS devices, cameras and sensors. Instead of building everything from scratch, reusing and connecting existing components saves time and money. The team already has experience with similar systems they can adapt.
+**Justification**: This project combines lots of existing technology: GPS devices, cameras and sensors. Instead of building everything from scratch, reusing and connecting existing components saves time and money. The team already has experience with similar systems they can adapt.
 
 ---
 
@@ -44,7 +44,7 @@
 
 > **Selected SDLC**: Agile Development
 
-**Justification**: Game requirements will change as teachers test them and give feedback. The small experienced team can build game versions quickly, let teachers try them and improve based on what works. Fast iterations and constant testing fit perfectly with how games need to be developed.
+**Justification**: Game requirements will change as teachers test them and give feedback. The small experienced team can build game versions quickly which leaves opportunity to improve them based on what works. Fast iterations and constant testing fit perfectly with how games need to be developed.
 
 ---
 
