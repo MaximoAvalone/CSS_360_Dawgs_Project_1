@@ -13,3 +13,5 @@ This repository contains our submission for **Project 1: Project Life-Cycles**.
   Contains Archit Jaiswal’s individual SDLC selections and justifications for all seven projects.
 - [`MaximoAvalone_SDLC_Choices.md`](https://github.com/MaximoAvalone/CSS_360_Dawgs_Project_1/blob/main/MaximoAvalone_SDLC_Choices.md)
   Contains Maximo Avalone’s individual SDLC selections and justifications for all seven projects.
+- [`izyabudayeh.md`](https://github.com/MaximoAvalone/CSS_360_Dawgs_Project_1/blob/main/izyabudayeh.md)
+  Contains Izy Abudayeh’s individual SDLC selections and justifications for all seven projects.
